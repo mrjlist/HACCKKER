@@ -3,11 +3,10 @@
 - 📫 email: contact.uedim@slmail.me
 - 🗨️ discord: H̲A̲C̲K̲K̲E̲R̲#0939
 
-
-
 <h1> 🧰 My skills: </h1>
 
 ![Linux](https://img.shields.io/badge/-Linux-00ff00?style=for-the-badge&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/-ansible-00ff00?style=for-the-badge&logo=ansible&logoColor=black)
 ![Git](https://img.shields.io/badge/-git-00ff00?style=for-the-badge&logo=git&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-00ff00?style=for-the-badge&logo=python&logoColor=black)
 ![Bash](https://img.shields.io/badge/-bash-00ff00?style=for-the-badge&logo=gnu-bash&logoColor=black)
