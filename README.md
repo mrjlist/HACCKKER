@@ -7,12 +7,12 @@
 
 <h1> 🧰 My skills: </h1>
 
-![Git](https://img.shields.io/badge/-git-00ff00?style=for-the-badge&logo=git&logoColor=000)
-![Linux](https://img.shields.io/badge/-Linux-00ff00?style=for-the-badge&logo=linux&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-00ff00?style=for-the-badge&logo=python&logoColor=000)
-![Bash](https://img.shields.io/badge/-bash-00ff00?style=for-the-badge&logo=gnu-bash&logoColor=000)
-![SQLite](https://img.shields.io/badge/-sqlite-00ff00?style=for-the-badge&logo=SQLite&logoColor=000)
-![Docker](https://img.shields.io/badge/-Docker-00ff00?style=for-the-badge&logo=docker&logoColor=000)
+![Git](https://img.shields.io/badge/-git-00ff00?style=for-the-badge&logo=git&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-00ff00?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-00ff00?style=for-the-badge&logo=python&logoColor=black)
+![Bash](https://img.shields.io/badge/-bash-00ff00?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![SQLite](https://img.shields.io/badge/-sqlite-00ff00?style=for-the-badge&logo=SQLite&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-00ff00?style=for-the-badge&logo=docker&logoColor=black)
 
 <h1>📊 Stats:</h1>
 
