@@ -7,11 +7,12 @@
 
 <h1> 🧰 My skills: </h1>
 
-![Git](https://img.shields.io/badge/-git-00ff00?style=for-the-badge&logo=git&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-00ff00?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-git-00ff00?style=for-the-badge&logo=git&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-00ff00?style=for-the-badge&logo=python&logoColor=black)
 ![Bash](https://img.shields.io/badge/-bash-00ff00?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![SQLite](https://img.shields.io/badge/-sqlite-00ff00?style=for-the-badge&logo=SQLite&logoColor=black)
+![MySQL](https://img.shields.io/badge/-mysql-00ff00?style=for-the-badge&logo=mysql&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-00ff00?style=for-the-badge&logo=docker&logoColor=black)
 
 <h1>📊 Stats:</h1>
