@@ -13,7 +13,7 @@
 ![SQLite](https://img.shields.io/badge/-sqlite-00ff00?style=for-the-badge&logo=SQLite&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-mysql-00ff00?style=for-the-badge&logo=mysql&logoColor=black)
 ![Docker](https://img.shields.io/badge/-docker-00ff00?style=for-the-badge&logo=docker&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/-kubernetes-00ff00?style=for-the-badge&logo=kubernetes&logoColor=black)
+<!--![Kubernetes](https://img.shields.io/badge/-kubernetes-00ff00?style=for-the-badge&logo=kubernetes&logoColor=black) in progress-->
 
 <h1>📊 Stats:</h1>
 
