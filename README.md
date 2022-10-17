@@ -2,7 +2,7 @@
 
 - 📫 email: contact.uedim@slmail.me
 - 🗨️ discord: H̲A̲C̲K̲K̲E̲R̲#0939
-- 🔒 all of my repos are closed source
+- 🔒 all of my projects are closed source
 
 <h1> 🧰 Skills: </h1>
 
