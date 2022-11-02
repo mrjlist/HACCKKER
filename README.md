@@ -2,7 +2,7 @@
 
 - 📫 email: contact.uedim@slmail.me
 - 🗨️ discord: H̲A̲C̲K̲K̲E̲R̲#0939
-- 🔒 all of my projects are closed source
+- 🔒 all of my projects are closed source for now
 
 <h1> 🧰 Skills: </h1>
 
@@ -16,12 +16,10 @@
 ![Docker](https://img.shields.io/badge/-docker-00ff00?style=for-the-badge&logo=docker&logoColor=black)
 <!--![Kubernetes](https://img.shields.io/badge/-kubernetes-00ff00?style=for-the-badge&logo=kubernetes&logoColor=black) in progress-->
 
-<h1>📊 Stats:</h1>
-
-### GitHub Stats:
-[![Githubstats](https://github-readme-stats.vercel.app/api?username=HACCKKER&show_icons=true&theme=chartreuse-dark)](https://github.com/HACCKKER)
-
-### language usage stats:
-[![Langstats](https://github-readme-stats.vercel.app/api/top-langs/?username=HACCKKER&layout=compact&theme=chartreuse-dark)](https://github.com/HACCKKER)
+<details>
+  <summary>📊 Stats:</summary>
+    <img src=https://github-readme-stats.vercel.app/api?username=HACCKKER&show_icons=true&include_all_commits=tru&theme=chartreuse-dark/>
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=HACCKKER&layout=compact&theme=chartreuse-dark/>
+</details>
 
 ![](https://raw.githubusercontent.com/HACCKKER/HACCKKER/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
