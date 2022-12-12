@@ -14,6 +14,7 @@
 ![Ansible](https://img.shields.io/badge/-ansible-00ff00?style=for-the-badge&logo=ansible&logoColor=black)
 ![Git](https://img.shields.io/badge/-git-00ff00?style=for-the-badge&logo=git&logoColor=black)
 ![Python](https://img.shields.io/badge/-python-00ff00?style=for-the-badge&logo=python&logoColor=black)
+![Nim](https://img.shields.io/badge/-nim-00ff00?style=for-the-badge&logo=nim&logoColor=black)
 ![Bash](https://img.shields.io/badge/-bash-00ff00?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![SQLite](https://img.shields.io/badge/-sqlite-00ff00?style=for-the-badge&logo=SQLite&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-mysql-00ff00?style=for-the-badge&logo=mysql&logoColor=black)
